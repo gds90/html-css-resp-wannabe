@@ -130,13 +130,13 @@ img {
 
 @media screen and (max-width: 768px) {
     .container {
-        width: 767px;
+        width: 100%;
     }
 }
 
 @media screen and (max-width: 480px) {
     .container {
-        width: 479px;
+        width: 100%;
         padding: 0 70px;
     }
     .row {
